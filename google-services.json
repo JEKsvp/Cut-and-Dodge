@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "592491668322",
+    "firebase_url": "https://cut-and-dodge-87930452.firebaseio.com",
+    "project_id": "cut-and-dodge-87930452",
+    "storage_bucket": "cut-and-dodge-87930452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592491668322:android:63bbf1fc1ad2ff2a",
+        "android_client_info": {
+          "package_name": "com.abadek.cutanddodge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592491668322-41tejbb48cvbcb1t9oscfn96j5i76s60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abadek.cutanddodge",
+            "certificate_hash": "700E062B73F714AAE8367763AA720C2481F60FB5"
+          }
+        },
+        {
+          "client_id": "592491668322-m2n0igceuo57u4db7ga7a9jd5umjv7rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYB8hivWjn5zZjO6ARf8XHF8Mr_cuo3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592491668322-m2n0igceuo57u4db7ga7a9jd5umjv7rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
